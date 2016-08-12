@@ -1,0 +1,63 @@
+[
+  {
+     "name" : "Applications",
+     "order" : 1,
+     "type" : "group",
+     "id" : "applications",
+     "implements" : "Applications_home"
+  },
+  {
+     "icon" : "wp.png",
+     "group_id" : "applications",
+     "order" : 1,
+     "name" : "WordPress",
+     "type" : "link",
+     "id" : "wordpress",
+     "uri" : "/3rdparty/installatron/index.cgi#/wordpress"
+  },
+  {
+     "icon" : "omeka.png",
+     "group_id" : "applications",
+     "order" : 2,
+     "name" : "Omeka",
+     "type" : "link",
+     "id" : "omeka",
+     "uri" : "/3rdparty/installatron/index.cgi#/omeka"
+  },
+  {
+     "icon" : "scalar.png",
+     "group_id" : "applications",
+     "order" : 3,
+     "name" : "Scalar",
+     "type" : "link",
+     "id" : "scalar",
+     "uri" : "/3rdparty/installatron/index.cgi#/scalar"
+  },
+  {
+     "icon" : "grav.png",
+     "group_id" : "applications",
+     "order" : 3,
+     "name" : "Grav",
+     "type" : "link",
+     "id" : "grav",
+     "uri" : "/3rdparty/installatron/index.cgi#/grav"
+  },
+  {
+     "icon" : "allapps.png",
+     "group_id" : "applications",
+     "order" : 4,
+     "name" : "All Applications",
+     "type" : "link",
+     "id" : "allapps",
+     "uri" : "/3rdparty/installatron/index.cgi#/apps"
+  },
+  {
+     "icon" : "myapps.png",
+     "group_id" : "applications",
+     "order" : 5,
+     "name" : "My Apps",
+     "type" : "link",
+     "id" : "myapps",
+     "uri" : "/3rdparty/installatron/index.cgi#/installs"
+  }
+]
